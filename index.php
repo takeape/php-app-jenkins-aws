@@ -7,7 +7,7 @@ body { background-color: brown }
 <body >
 <center>
 <font color=white>
-<h1>Hello From DevOps WebPage! Version-2</h1>
+<h1>Hello From DevOps WebPage! Version-1</h1>
 </font>
 </center>
 
